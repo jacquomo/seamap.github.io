@@ -1,3 +1,3 @@
-# Login Page Example
+# Spatial Ecology And Monitoring Assessment Program
 
-![](screenshot.png)
+![](landing.png)
