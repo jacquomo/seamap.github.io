@@ -1,3 +1,3 @@
 # Spatial Ecology And Monitoring Assessment Program
 
-![](landing.png)
+![](logo_v15v2_4.png)
